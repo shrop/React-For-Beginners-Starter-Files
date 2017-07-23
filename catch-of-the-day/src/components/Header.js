@@ -5,7 +5,7 @@ const Header = (props) => {
   return (
     <header className="top">
       <h1>
-        <Link to="/" activeClassName="active">
+        <Link to="/">
         Catch
         <span className="ofThe">
           <span className="of">of</span>
